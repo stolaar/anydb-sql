@@ -34,7 +34,7 @@
   "dependencies": {
     "any-db": "^2.2.1",
     "any-db-mysql": "^2.1.2",
-    "any-db-postgres": "^2.3.0",
+    "any-db-postgres": "github:stolaar/any-db-postgres#ec0d374",
     "any-db-transaction": "^2.2.1",
     "bluebird": "^2.3.6",
     "node-sql-2": "^0.78.0",
