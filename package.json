@@ -32,7 +32,7 @@
     "test": "test"
   },
   "dependencies": {
-    "any-db": "^2.2.1",
+    "any-db": "github:stolaar/node-any-db#75ab715",
     "any-db-mysql": "^2.1.2",
     "any-db-postgres": "github:stolaar/any-db-postgres#ec0d374",
     "any-db-transaction": "^2.2.1",
